@@ -1,0 +1,5 @@
+event_id,geographic_scope,immigrant_group,date_start,date_end,population_low,population_high,estimate_type,evidence_class,confidence_level,source_id,notes
+FRANTZMAN_NEW_SETTLEMENTS_1871_1948,Palestine Proper,Arab and Muslim new settlements,1871,1948,172,195,new settlements established and permanently inhabited,C,High,SRC_FRANTZMAN_2010,Conclusion. 146 recognized inhabited new settlements in 1945; 172-195 total established and permanently inhabited.
+FRANTZMAN_RECOGNIZED_1945,Palestine Proper,Recognized inhabited new Arab settlements,1945,1945,146,146,recognized inhabited settlement count,C,High,SRC_FRANTZMAN_2010,Recognized by Mandatory authorities in 1945.
+FRANTZMAN_BEDOUIN_SETTLEMENTS,Palestine Proper,Bedouin-founded new settlements,1871,1948,47,52,settlement count; discrepancy to resolve,C,Medium,SRC_FRANTZMAN_2010,Discussion says 47; conclusion says 52.
+FRANTZMAN_NEW_SETTLERS_STOCK,Palestine Proper,Population living in new settlements,1945,1945,66940,66940,"population stock, not external immigration flow",C,High,SRC_FRANTZMAN_2010,Do not count as immigration without origin coding.
