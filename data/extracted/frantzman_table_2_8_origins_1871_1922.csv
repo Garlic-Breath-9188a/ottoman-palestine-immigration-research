@@ -1,0 +1,12 @@
+origin_category,number_of_villages,migration_interpretation,proposed_origin_code,research_value
+Daughter Village,19,Mostly local/internal,ORIGIN_LOCAL_SUBDISTRICT,Low for external migration
+Bedouins,9.5,Mobile/tribal origin; may cross regional boundaries,ORIGIN_BEDOUIN_MOBILE,High priority for Southern Levant mobility review
+"Foreigners: Algerians, Egyptians, Circassians and Bosnians / Abdul Hamid II's settlers",8.5,Explicit external-origin category,ORIGIN_EXTERNAL_OR_REFUGEE,Strongest pre-1922 external-origin category
+Abdul Hamid II's settlers,8,State-sponsored settlement; origin may be local or external,ORIGIN_STATE_SPONSORED_AMBIGUOUS,Requires village-level coding
+Farm,4,Farm/estate settlement; origin unclear,ORIGIN_UNKNOWN_OR_ESTATE,May hide tenant migration
+City dwellers (i.e. Gazans),4,Internal urban-to-rural migration,ORIGIN_PALESTINE_PROPER,Not external unless city population itself included migrants
+Effendi and settlers,5,Estate-led settlement; origin unclear,ORIGIN_UNKNOWN_OR_ESTATE,May include imported tenant farmers
+Previous villagers,2,Local continuity/reoccupation,ORIGIN_LOCAL_SUBDISTRICT,Low for external migration
+Locals,2,Local,ORIGIN_LOCAL_SUBDISTRICT,Low for external migration
+Unknown,4,Unknown,ORIGIN_UNKNOWN,Cannot classify
+Total,69,,,

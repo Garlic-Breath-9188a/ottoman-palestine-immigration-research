@@ -1,0 +1,54 @@
+settlement_name,origin,comment,proposed_origin_code,research_note
+Imara,Bedouin,,ORIGIN_BEDOUIN_MOBILE,Possible cross-border/mobile origin; verify tribe range
+Jammama,Bedouin,Arab al Atawina,ORIGIN_BEDOUIN_MOBILE,Negev/Besheba tribal mobility
+Auja,Bedouins and Hamid's settlers,Abdul Hamid II,ORIGIN_BEDOUIN_MOBILE_AND_STATE,Mixed Bedouin/state-sponsored
+Ajanjul,Daughter village of Beit Nuba,,ORIGIN_LOCAL_SUBDISTRICT,Local internal
+Khirbat Buweiriya,Daughter village of Beit Nuba or Qatanna,Clermont-Ganneau,ORIGIN_LOCAL_SUBDISTRICT,Local internal
+Deir Muheisin,Off-shoot of Khulda?,,ORIGIN_LOCAL_SUBDISTRICT,Local/internal likely
+Kharruba,Off-shoot of Innaba?,Unstable village,ORIGIN_LOCAL_SUBDISTRICT,Local/internal likely
+Mukhazin,Bedouin village,Arab al Wuhaydat,ORIGIN_BEDOUIN_MOBILE,Important: Wuhaydat may have broader Southern Levant history
+Kh. Zakariya,Tomb,,ORIGIN_UNKNOWN,Origin unclear
+Al Auja,Bedouin,,ORIGIN_BEDOUIN_MOBILE,Jericho/Jordan Valley Bedouin mobility
+Kh. Ismallah,Estate house,,ORIGIN_UNKNOWN_OR_ESTATE,Possible estate-led settlement
+Al Nebi Musa,Bedouin,tomb,ORIGIN_BEDOUIN_MOBILE,Bedouin pilgrimage/settlement fixation
+Nueima,Bedouin,,ORIGIN_BEDOUIN_MOBILE,Jericho/Jordan Valley Bedouin mobility
+Duyuk,Bedouin,,ORIGIN_BEDOUIN_MOBILE,Jericho/Jordan Valley Bedouin mobility
+Jammasin al Gharbi,Bedouin,laboured for Germans in Sarona,ORIGIN_BEDOUIN_MOBILE,Labor link to German settlement; tribe old in Nablus registers
+Wadi Hawarith North,Bedouin,Hawarith tribe,ORIGIN_BEDOUIN_MOBILE,Major coastal tribal settlement; ownership by Lebanese Maronite noted nearby
+Kh. Hawsa,Algerians,Neby Hushan,ORIGIN_EXTERNAL_OTTOMAN,Explicit external-origin category
+Kh. Lid,Unknown,,ORIGIN_UNKNOWN,Needs village-level source
+Naghnaghiya,Bedouin,Naghnaghiya tribe,ORIGIN_BEDOUIN_MOBILE,Jezreel/tribal
+Ein al Mansi,"Unstable village, Bedouins",,ORIGIN_BEDOUIN_MOBILE,Unstable/seasonal; settlement survival bias
+Zalafa,Unstable or seasonal settlement,Abdul Hamid II estate,ORIGIN_STATE_SPONSORED_AMBIGUOUS,Could be local cultivators; verify
+Mu'awiya,Daughter village,,ORIGIN_LOCAL_SUBDISTRICT,Umm al-Fahm daughter village
+Arida,Bedouin,Arab al Arida,ORIGIN_BEDOUIN_MOBILE,Baysan/Jordan Valley tribal
+Bawati al (Hakimiya),Bedouin,Arab al Ghazawiya-Bawati,ORIGIN_BEDOUIN_MOBILE,Baysan/Jordan Valley tribal
+Fatur,Bedouin?,,ORIGIN_BEDOUIN_MOBILE_UNCERTAIN,Needs verification
+Masil al Jizl,Bedouin,Arab al Zinati,ORIGIN_BEDOUIN_MOBILE,Baysan/Jordan Valley tribal
+Sakhina,Bedouin,Arab es Sakhine; Abdul Hamid II Estate,ORIGIN_BEDOUIN_MOBILE_AND_STATE,State land plus tribe
+Wadi al Bira,Unknown,,ORIGIN_UNKNOWN,Needs source
+Zaba,Dispersed Bedouin settlement,Abdul Hamid II estate,ORIGIN_BEDOUIN_MOBILE_AND_STATE,State land plus Bedouin settlement
+Kh. Suwwana,Bedouin,Arab al-Samniya and Arab Tauqiya,ORIGIN_BEDOUIN_MOBILE,Acre/Galilee tribal
+Hamma,Arab settlers,"Railroad, Abdul Hamid II and effendi investment",ORIGIN_ARAB_SETTLERS_AMBIGUOUS,Important: 1945 Gazetteer says owned by people from Mukheiba in Transjordan
+"Kh. al Wa'ra es Sauda, Al Mawasi, al Wuheib",Bedouin,"Arab al Mawasi, Wuheib",ORIGIN_BEDOUIN_MOBILE,Huleh/Galilee tribal
+al Manara,Bedouin,Arab al Manara,ORIGIN_BEDOUIN_MOBILE,Tribal
+Es Samikiya,Bedouin,Arab al Samakiya,ORIGIN_BEDOUIN_MOBILE,Capernaum/Sea of Galilee
+Beisamun,Bedouin,Beisamun tribe,ORIGIN_BEDOUIN_MOBILE,Huleh
+Buweiziya and Al Meis,Unknown,,ORIGIN_UNKNOWN,Needs source
+Dawwara,Unknown,Estate?,ORIGIN_UNKNOWN_OR_ESTATE,Needs source
+Gharuba,Unknown,tomb,ORIGIN_UNKNOWN,Needs source
+Huseiniya,Algerian Bedouin,Arab Zubaydat,ORIGIN_EXTERNAL_OTTOMAN_OR_BEDOUIN,Algerian-origin lead
+Khayim al Walid,Unknown,,ORIGIN_UNKNOWN,Needs source
+Khisas,Unknown,,ORIGIN_UNKNOWN,Needs source
+Kirad al Baqqara,Bedouin (Khalidi),"Arab al Baqqara, Ayalet al Shahar",ORIGIN_BEDOUIN_MOBILE,Huleh/tribal
+Kirad al Ghannama,Bedouin,"Arab al Ghannama, Ayalet al Shahar",ORIGIN_BEDOUIN_MOBILE,Huleh/tribal
+Mallaha and Arab Zubeid,Bedouin,Arab Zubayd,ORIGIN_BEDOUIN_MOBILE,Huleh swamp-dwelling Arab/Bedouin
+Muftakhira and Barjifyat,Unknown,,ORIGIN_UNKNOWN,Possibly Egyptian per discussion nearby
+Nebi Yusha,Lebanese,Pilgrimage site,ORIGIN_SOUTHERN_LEVANT,Explicit Lebanon lead
+Qudeiriya,Unknown,Shrine to sheikh Rumi,ORIGIN_UNKNOWN,Needs source
+"Sinbariya/Sanbariya, Es",Unknown,,ORIGIN_UNKNOWN,Needs source
+Tuba (Arab Heib),Bedouin,,ORIGIN_BEDOUIN_MOBILE,Huleh/Galilee tribal
+"Ulmaniya, al and Arab al-Zubayd",Unknown,tomb,ORIGIN_UNKNOWN,Named after Bedouin tribe per text
+Yarda,Effendi estate,Ayalet al Shahar,ORIGIN_UNKNOWN_OR_ESTATE,Estate-led settlement
+Zanghariyeh (Zuhluq) and Khirbat Karraza,Bedouin,Arab al Zanghariyeh,ORIGIN_BEDOUIN_MOBILE,Major tribal settlement
+Zawiya,Unknown,,ORIGIN_UNKNOWN,Needs source
