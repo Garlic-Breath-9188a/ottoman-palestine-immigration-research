@@ -1,0 +1,18 @@
+location_id,scope_id,membership_confidence,rationale,notes
+LOC_JERUSALEM,PAL_PROPER,High,Core Jerusalem Sanjak locality.,
+LOC_JAFFA,PAL_PROPER,High,Core Jerusalem Sanjak port city.,
+LOC_GAZA,PAL_PROPER,High,Core Jerusalem Sanjak locality.,
+LOC_HEBRON,PAL_PROPER,High,Core Jerusalem Sanjak locality.,
+LOC_NABLUS,PAL_PROPER,High,Core Nablus region locality.,
+LOC_AKKA,PAL_PROPER,High,Core Acre/Akka Sanjak locality.,
+LOC_HAIFA,PAL_PROPER,High,Core Acre/Akka Sanjak port city.,
+LOC_SAFED,PAL_PROPER,High,Core northern Palestine locality.,
+LOC_TIBERIAS,PAL_PROPER,High,Core northern Palestine locality.,
+LOC_KFAR_KAMA,PAL_PROPER,High,Located in Lower Galilee.,
+LOC_REHANIYA,PAL_PROPER,High,Located in Upper Galilee.,
+LOC_GABE,PAL_PROPER,Medium,Reported Sharon/Galilee-related Circassian settlement; exact identification must be confirmed.,
+LOC_TRANSJORDAN,SOUTHERN_LEVANT,High,Adjacent Ottoman frontier zone with known refugee settlement and mobility ties to Palestine.,Add location record if not present.
+LOC_BALQA,SOUTHERN_LEVANT,High,Major Circassian/Chechen settlement zone east of Jordan.,Add location record if not present.
+LOC_AMMAN,SOUTHERN_LEVANT,High,Major Circassian settlement center in Balqa.,Add location record if not present.
+LOC_HAURAN,SOUTHERN_LEVANT,High,Southern Syrian frontier zone connected to Galilee/Golan/Transjordan.,Add location record if not present.
+LOC_GOLAN,SOUTHERN_LEVANT,High,Adjacent to northern Palestine; known Circassian settlement zone.,Add location record if not present.
