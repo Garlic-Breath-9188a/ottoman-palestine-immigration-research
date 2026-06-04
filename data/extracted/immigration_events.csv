@@ -1,0 +1,4 @@
+event_id,date_start,date_end,origin,destination_location_id,immigrant_group,population_low,population_high,estimate_type,evidence_class,confidence_level,source_id,citation_detail,notes
+EVT_KFAR_KAMA_SETTLEMENT,1878,1884,North Caucasus,LOC_KFAR_KAMA,Circassian Muslim refugees,449,1150,direct settlement reported in secondary source,C,Medium,SRC_ORD_AF_CIRCASSIANS,Needs page/source chain,Verify in Syria Salname 1301/1884.
+EVT_REHANIYA_SETTLEMENT,1878,1884,North Caucasus,LOC_REHANIYA,Circassian Muslim refugees,150,250,direct settlement reported in secondary source,C,Medium,SRC_ORD_AF_CIRCASSIANS,Needs page/source chain,Verify in Syria Salname.
+EVT_GABE_SETTLEMENT,1880,1889,North Caucasus,LOC_GABE,Circassian Muslim refugees,369,1950,"reported, high estimate unverified",C,Low,SRC_ORD_AF_CIRCASSIANS,Needs primary Ottoman confirmation,Reported decline due to disease and relocation to Salt/Amman/Wadi al-Sir.

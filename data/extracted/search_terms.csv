@@ -1,0 +1,12 @@
+term_id,term,language,script,category,notes
+TERM_FILISTIN,Filistin,Turkish/Ottoman,Latin transliteration,place,Palestine
+TERM_KUDUS,Kudüs,Turkish/Ottoman,Latin transliteration,place,Jerusalem
+TERM_AKKA,Akka,Turkish/Ottoman,Latin transliteration,place,Acre
+TERM_SAFED,Safed,Turkish/Ottoman,Latin transliteration,place,Safed
+TERM_TABERIYE,Taberiye,Turkish/Ottoman,Latin transliteration,place,Tiberias
+TERM_HAYFA,Hayfa,Turkish/Ottoman,Latin transliteration,place,Haifa
+TERM_YAFA,Yafa,Turkish/Ottoman,Latin transliteration,place,Jaffa
+TERM_CERKES,Çerkes,Turkish/Ottoman,Latin transliteration,group,Circassian
+TERM_BOSNAK,Boşnak,Turkish/Ottoman,Latin transliteration,group,Bosnian
+TERM_MUHACIR,Muhacir,Turkish/Ottoman,Latin transliteration,migration,Immigrant/refugee
+TERM_MUHACIRIN,Muhacirin,Turkish/Ottoman,Latin transliteration,migration,Immigrants/refugees

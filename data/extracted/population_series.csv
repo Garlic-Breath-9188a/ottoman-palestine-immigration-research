@@ -1,0 +1,7 @@
+population_id,location_id,year,population_total,muslim,christian,jewish,other,source_id,estimate_type,confidence_level,notes
+POP_JERUSALEM_1885,LOC_JERUSALEM,1885,229801,,,,,SRC_MCCARTHY_POP_PALESTINE,published Ottoman summary,Medium,Jerusalem Sanjak approx. 1884-85.
+POP_JERUSALEM_1894,LOC_JERUSALEM,1894,258860,,,,,SRC_MCCARTHY_POP_PALESTINE,published Ottoman summary,Medium,Jerusalem Sanjak approx. 1893-94.
+POP_JERUSALEM_1912,LOC_JERUSALEM,1912,328168,,,,,SRC_MCCARTHY_POP_PALESTINE,published Ottoman summary,Medium,Jerusalem Sanjak approx. 1911-12.
+POP_AKKA_1885,LOC_AKKA,1885,75882,,,,,SRC_MCCARTHY_POP_PALESTINE,published Ottoman summary,Medium,Acre Sanjak approx. 1884-85.
+POP_AKKA_1896,LOC_AKKA,1896,95617,,,,,SRC_MCCARTHY_POP_PALESTINE,published Ottoman summary,Medium,Acre Sanjak approx. 1895-96.
+POP_AKKA_1913,LOC_AKKA,1913,133877,,,,,SRC_MCCARTHY_POP_PALESTINE,published Ottoman summary,Medium,Acre Sanjak approx. 1912-13.

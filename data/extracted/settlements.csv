@@ -1,0 +1,4 @@
+settlement_id,settlement_name,location_id,immigrant_group,origin_region,founded_year,initial_population_low,initial_population_high,estimate_type,confidence_level,source_id,notes
+SET_KFAR_KAMA,Kfar Kama,LOC_KFAR_KAMA,Circassian,North Caucasus,1878,449,1150,reported range from secondary sources,Medium,SRC_ORD_AF_CIRCASSIANS,"1884 salname figure reported as 449; later histories cite approx. 1,150 settlers."
+SET_REHANIYA,Rehaniya,LOC_REHANIYA,Circassian,North Caucasus,1878,150,250,reported range from secondary sources,Medium,SRC_ORD_AF_CIRCASSIANS,Reported 1884 figure around 150; other accounts cite 35 families.
+SET_GABE,Gâbe / Gabiya,LOC_GABE,Circassian,North Caucasus,,369,1950,reported range; high figure unverified,Low,SRC_ORD_AF_CIRCASSIANS,"1884 salname figure reported as 369; claim of initial 1,950 requires primary verification."

@@ -1,0 +1,4 @@
+residual_id,location_id,period_start,period_end,population_start,population_end,expected_natural_increase_low,expected_natural_increase_high,residual_migration_low,residual_migration_high,external_migration_low,external_migration_high,methodology,confidence_level,notes
+RES_EXT_ARAB_LOW,,1880,1914,,,,,,,5000,15000,Scenario estimate from urban growth residual discussion; not direct evidence.,Low,Use only as hypothesis to test.
+RES_EXT_ARAB_MEDIUM,,1880,1914,,,,,,,15000,25000,Scenario estimate from urban growth residual discussion; not direct evidence.,Low,Use only as hypothesis to test.
+RES_EXT_ARAB_AGGRESSIVE,,1880,1914,,,,,,,25000,50000,Aggressive scenario estimate; not yet documented.,Speculative,Requires primary support before citation in paper.

@@ -1,0 +1,13 @@
+location_id,name,alternative_names,district,sanjak,vilayet,modern_country,latitude,longitude,notes
+LOC_KFAR_KAMA,Kfar Kama,Kefr-Kama; Kafr Kama,Galilee,Akka,Syria/Beirut depending on year,Israel,,,Circassian settlement in Lower Galilee.
+LOC_REHANIYA,Rehaniya,Reyhaniye; Rehaniye,Galilee,Akka/Safed,Syria/Beirut depending on year,Israel,,,Circassian settlement in Upper Galilee.
+LOC_GABE,Gâbe / Gabiya,Gabiya; Gâbiye; Gâbe,Galilee/Akka,Akka,Syria/Beirut depending on year,Israel/Palestine,,,"Reported Circassian settlement, later failed or depopulated."
+LOC_JERUSALEM,Jerusalem,Kudüs,Jerusalem,Jerusalem,Independent Sanjak,Israel/Palestine,,,
+LOC_JAFFA,Jaffa,Yafa; Jafa,Jaffa,Jerusalem,Independent Sanjak,Israel,,,Major port.
+LOC_HAIFA,Haifa,Hayfa,Haifa,Akka,Syria/Beirut depending on year,Israel,,,Growing late Ottoman port city.
+LOC_AKKA,Acre,Akka; Akko,Acre,Akka,Syria/Beirut depending on year,Israel,,,Key sanjak for refugee settlement search.
+LOC_SAFED,Safed,Safad; Safed,Safed,Akka,Syria/Beirut depending on year,Israel,,,
+LOC_TIBERIAS,Tiberias,Taberiye,Tiberias,Akka,Syria/Beirut depending on year,Israel,,,
+LOC_NABLUS,Nablus,Nablus,Nablus,Nablus,Syria/Beirut depending on year,West Bank,,,
+LOC_HEBRON,Hebron,Halil; El-Halil,Hebron,Jerusalem,Independent Sanjak,West Bank,,,
+LOC_GAZA,Gaza,Gaza,Gaza,Jerusalem,Independent Sanjak,Gaza,,,

@@ -1,0 +1,4 @@
+finding_id,source_id,location_id,finding_date,claim_summary,quoted_text,page_or_ref,evidence_class,confidence_level,needs_verification,notes
+FND_KARPAT_CENSUS_METHOD,SRC_KARPAT_1978,,2026-06-03,"Karpat argues Ottoman census records are more reliable than many biased contemporary estimates, despite undercounting in remote regions.",,Uploaded PDF,C,High,0,Use for methodology section.
+FND_ORD_AF_1884_CIRCASSIANS,SRC_ORD_AF_CIRCASSIANS,LOC_AKKA,2026-06-03,"Article reports 1884 Syria Salname figures for Circassian settlements in Akka Sanjak: Kfar Kama 449, Rehaniya about 150, Gâbe 369.",,Web article; source chain needed,C,Medium,1,Priority: verify in actual salname scan.
+FND_GABE_HIGH_CLAIM,SRC_ORD_AF_CIRCASSIANS,LOC_GABE,2026-06-03,"Article reports possible initial Gâbe settlement of 1,950 Circassians before disease and relocation.",,Web article; source chain needed,C,Low,1,Do not use as fact until verified.
